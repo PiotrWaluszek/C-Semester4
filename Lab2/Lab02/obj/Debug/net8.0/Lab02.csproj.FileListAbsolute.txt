@@ -1,0 +1,14 @@
+/Users/piotr.waluszek/Other/Studia/C#/Lab2/Lab02/obj/Debug/net8.0/Lab02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/piotr.waluszek/Other/Studia/C#/Lab2/Lab02/obj/Debug/net8.0/Lab02.AssemblyInfoInputs.cache
+/Users/piotr.waluszek/Other/Studia/C#/Lab2/Lab02/obj/Debug/net8.0/Lab02.AssemblyInfo.cs
+/Users/piotr.waluszek/Other/Studia/C#/Lab2/Lab02/obj/Debug/net8.0/Lab02.csproj.CoreCompileInputs.cache
+/Users/piotr.waluszek/Other/Studia/C#/Lab2/Lab02/bin/Debug/net8.0/Lab02
+/Users/piotr.waluszek/Other/Studia/C#/Lab2/Lab02/bin/Debug/net8.0/Lab02.deps.json
+/Users/piotr.waluszek/Other/Studia/C#/Lab2/Lab02/bin/Debug/net8.0/Lab02.runtimeconfig.json
+/Users/piotr.waluszek/Other/Studia/C#/Lab2/Lab02/bin/Debug/net8.0/Lab02.dll
+/Users/piotr.waluszek/Other/Studia/C#/Lab2/Lab02/bin/Debug/net8.0/Lab02.pdb
+/Users/piotr.waluszek/Other/Studia/C#/Lab2/Lab02/obj/Debug/net8.0/Lab02.dll
+/Users/piotr.waluszek/Other/Studia/C#/Lab2/Lab02/obj/Debug/net8.0/refint/Lab02.dll
+/Users/piotr.waluszek/Other/Studia/C#/Lab2/Lab02/obj/Debug/net8.0/Lab02.pdb
+/Users/piotr.waluszek/Other/Studia/C#/Lab2/Lab02/obj/Debug/net8.0/Lab02.genruntimeconfig.cache
+/Users/piotr.waluszek/Other/Studia/C#/Lab2/Lab02/obj/Debug/net8.0/ref/Lab02.dll

@@ -1,0 +1,14 @@
+/Users/piotr.waluszek/Other/Studia/C#/Lab01/Ex3/bin/Debug/net8.0/Ex3
+/Users/piotr.waluszek/Other/Studia/C#/Lab01/Ex3/bin/Debug/net8.0/Ex3.deps.json
+/Users/piotr.waluszek/Other/Studia/C#/Lab01/Ex3/bin/Debug/net8.0/Ex3.runtimeconfig.json
+/Users/piotr.waluszek/Other/Studia/C#/Lab01/Ex3/bin/Debug/net8.0/Ex3.dll
+/Users/piotr.waluszek/Other/Studia/C#/Lab01/Ex3/bin/Debug/net8.0/Ex3.pdb
+/Users/piotr.waluszek/Other/Studia/C#/Lab01/Ex3/obj/Debug/net8.0/Ex3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/piotr.waluszek/Other/Studia/C#/Lab01/Ex3/obj/Debug/net8.0/Ex3.AssemblyInfoInputs.cache
+/Users/piotr.waluszek/Other/Studia/C#/Lab01/Ex3/obj/Debug/net8.0/Ex3.AssemblyInfo.cs
+/Users/piotr.waluszek/Other/Studia/C#/Lab01/Ex3/obj/Debug/net8.0/Ex3.csproj.CoreCompileInputs.cache
+/Users/piotr.waluszek/Other/Studia/C#/Lab01/Ex3/obj/Debug/net8.0/Ex3.dll
+/Users/piotr.waluszek/Other/Studia/C#/Lab01/Ex3/obj/Debug/net8.0/refint/Ex3.dll
+/Users/piotr.waluszek/Other/Studia/C#/Lab01/Ex3/obj/Debug/net8.0/Ex3.pdb
+/Users/piotr.waluszek/Other/Studia/C#/Lab01/Ex3/obj/Debug/net8.0/Ex3.genruntimeconfig.cache
+/Users/piotr.waluszek/Other/Studia/C#/Lab01/Ex3/obj/Debug/net8.0/ref/Ex3.dll

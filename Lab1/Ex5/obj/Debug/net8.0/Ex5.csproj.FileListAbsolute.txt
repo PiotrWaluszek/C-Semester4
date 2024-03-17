@@ -1,0 +1,14 @@
+/Users/piotr.waluszek/Other/Studia/C#/Lab01/Ex5/bin/Debug/net8.0/Ex5
+/Users/piotr.waluszek/Other/Studia/C#/Lab01/Ex5/bin/Debug/net8.0/Ex5.deps.json
+/Users/piotr.waluszek/Other/Studia/C#/Lab01/Ex5/bin/Debug/net8.0/Ex5.runtimeconfig.json
+/Users/piotr.waluszek/Other/Studia/C#/Lab01/Ex5/bin/Debug/net8.0/Ex5.dll
+/Users/piotr.waluszek/Other/Studia/C#/Lab01/Ex5/bin/Debug/net8.0/Ex5.pdb
+/Users/piotr.waluszek/Other/Studia/C#/Lab01/Ex5/obj/Debug/net8.0/Ex5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/piotr.waluszek/Other/Studia/C#/Lab01/Ex5/obj/Debug/net8.0/Ex5.AssemblyInfoInputs.cache
+/Users/piotr.waluszek/Other/Studia/C#/Lab01/Ex5/obj/Debug/net8.0/Ex5.AssemblyInfo.cs
+/Users/piotr.waluszek/Other/Studia/C#/Lab01/Ex5/obj/Debug/net8.0/Ex5.csproj.CoreCompileInputs.cache
+/Users/piotr.waluszek/Other/Studia/C#/Lab01/Ex5/obj/Debug/net8.0/Ex5.dll
+/Users/piotr.waluszek/Other/Studia/C#/Lab01/Ex5/obj/Debug/net8.0/refint/Ex5.dll
+/Users/piotr.waluszek/Other/Studia/C#/Lab01/Ex5/obj/Debug/net8.0/Ex5.pdb
+/Users/piotr.waluszek/Other/Studia/C#/Lab01/Ex5/obj/Debug/net8.0/Ex5.genruntimeconfig.cache
+/Users/piotr.waluszek/Other/Studia/C#/Lab01/Ex5/obj/Debug/net8.0/ref/Ex5.dll

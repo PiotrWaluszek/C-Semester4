@@ -9,7 +9,7 @@ namespace lab3
     {
         static void Main(string[] args)
         {
-            string jsonFilePath = "data.json"; // Dostosuj ścieżkę w razie potrzeby
+            string jsonFilePath = "data.jsonl"; // Dostosuj ścieżkę w razie potrzeby
 
             // 1. Deserializacja JSON z pliku i wyświetlanie przykładowych tweetów
             string json = File.ReadAllText(jsonFilePath);

@@ -1,0 +1,14 @@
+/Users/piotr.waluszek/RiderProjects/Lab3Alternative/Lab3Alternative/bin/Debug/net8.0/Lab3Alternative
+/Users/piotr.waluszek/RiderProjects/Lab3Alternative/Lab3Alternative/bin/Debug/net8.0/Lab3Alternative.deps.json
+/Users/piotr.waluszek/RiderProjects/Lab3Alternative/Lab3Alternative/bin/Debug/net8.0/Lab3Alternative.runtimeconfig.json
+/Users/piotr.waluszek/RiderProjects/Lab3Alternative/Lab3Alternative/bin/Debug/net8.0/Lab3Alternative.dll
+/Users/piotr.waluszek/RiderProjects/Lab3Alternative/Lab3Alternative/bin/Debug/net8.0/Lab3Alternative.pdb
+/Users/piotr.waluszek/RiderProjects/Lab3Alternative/Lab3Alternative/obj/Debug/net8.0/Lab3Alternative.GeneratedMSBuildEditorConfig.editorconfig
+/Users/piotr.waluszek/RiderProjects/Lab3Alternative/Lab3Alternative/obj/Debug/net8.0/Lab3Alternative.AssemblyInfoInputs.cache
+/Users/piotr.waluszek/RiderProjects/Lab3Alternative/Lab3Alternative/obj/Debug/net8.0/Lab3Alternative.AssemblyInfo.cs
+/Users/piotr.waluszek/RiderProjects/Lab3Alternative/Lab3Alternative/obj/Debug/net8.0/Lab3Alternative.csproj.CoreCompileInputs.cache
+/Users/piotr.waluszek/RiderProjects/Lab3Alternative/Lab3Alternative/obj/Debug/net8.0/Lab3Alternative.dll
+/Users/piotr.waluszek/RiderProjects/Lab3Alternative/Lab3Alternative/obj/Debug/net8.0/refint/Lab3Alternative.dll
+/Users/piotr.waluszek/RiderProjects/Lab3Alternative/Lab3Alternative/obj/Debug/net8.0/Lab3Alternative.pdb
+/Users/piotr.waluszek/RiderProjects/Lab3Alternative/Lab3Alternative/obj/Debug/net8.0/Lab3Alternative.genruntimeconfig.cache
+/Users/piotr.waluszek/RiderProjects/Lab3Alternative/Lab3Alternative/obj/Debug/net8.0/ref/Lab3Alternative.dll

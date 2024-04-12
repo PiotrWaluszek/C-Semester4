@@ -15,3 +15,4 @@
 /Users/piotr.waluszek/Other/Studia/C#/Lab3/Lab3/bin/Debug/net8.0/Newtonsoft.Json.dll
 /Users/piotr.waluszek/Other/Studia/C#/Lab3/Lab3/obj/Debug/net8.0/Lab3.csproj.AssemblyReference.cache
 /Users/piotr.waluszek/Other/Studia/C#/Lab3/Lab3/obj/Debug/net8.0/Lab3.csproj.Up2Date
+/Users/piotr.waluszek/Other/Studia/C#/Lab3/Lab3/obj/Debug/net8.0/Lab3.sourcelink.json
